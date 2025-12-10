@@ -17,8 +17,8 @@ This project delivers a sleek landing page using React and TailwindCSS, ideal fo
 
 ## 🛠️ Tech Stack
 
-* React.js (bootstrapped with Create React App) ([GitHub][1])
-* TailwindCSS (with config support) ([GitHub][1])
+* React.js (bootstrapped with Create React App) ([GitHub])
+* TailwindCSS (with config support) ([GitHub])
 * HTML / CSS / JavaScript (modern ES6+)
 
 ## 🎯 How to Customize / Use as Template
