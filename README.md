@@ -1,7 +1,3 @@
-Cool — since you shared the repo link, I peeked at it. Based on what’s there now, I whipped up a tailored **README.md** for your React‑landing‑page project. You can copy/paste it in your repo root to replace the default.
-
----
-
 # React-landing-page
 
 **A clean, responsive landing page built with React and Tailwind — minimal, modern & ready to flex.**
